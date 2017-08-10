@@ -1,2 +1,2 @@
 # ChinaMap
-svg中国地图
+svg 中国地图 省份可点击
